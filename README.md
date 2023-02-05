@@ -1,2 +1,5 @@
 # odin-landing-page
-This is my project for TOP's landing page assignment.
+This is a landing page for my dog, Watson.
+
+
+**IMAGE CREDITS**
